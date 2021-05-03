@@ -1,0 +1,2 @@
+C:\Users\092834\source\repos\MultiDimensionalArray\Debug\MultiDimensionalArray.exe
+C:\Users\092834\source\repos\MultiDimensionalArray\Debug\MultiDimensionalArray.pdb
